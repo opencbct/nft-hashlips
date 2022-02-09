@@ -1,0 +1,27 @@
+{
+  "name": "Your Collection #3851",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3851.png",
+  "dna": "1c5f1852e3486ba8d7d51dc7974893ddda60c4b5",
+  "edition": 3851,
+  "date": 1644431618955,
+  "attributes": [
+    {
+      "trait_type": "Backgrounds30",
+      "value": "17"
+    },
+    {
+      "trait_type": "Faces3",
+      "value": "3"
+    },
+    {
+      "trait_type": "Masks58",
+      "value": "32"
+    },
+    {
+      "trait_type": "Accessories5",
+      "value": "75"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Your Collection #5200",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/5200.png",
+  "dna": "e42c2a3090f7dc598b789e26cd44527d74bc31eb",
+  "edition": 5200,
+  "date": 1644431953280,
+  "attributes": [
+    {
+      "trait_type": "Backgrounds30",
+      "value": "81"
+    },
+    {
+      "trait_type": "Faces3",
+      "value": "2"
+    },
+    {
+      "trait_type": "Masks58",
+      "value": "39"
+    },
+    {
+      "trait_type": "Accessories5",
+      "value": "92"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

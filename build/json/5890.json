@@ -1,0 +1,27 @@
+{
+  "name": "Your Collection #5890",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/5890.png",
+  "dna": "a26be16fb85beacb6bb7dc36136ce4043af0dcc5",
+  "edition": 5890,
+  "date": 1644432128741,
+  "attributes": [
+    {
+      "trait_type": "Backgrounds30",
+      "value": "87"
+    },
+    {
+      "trait_type": "Faces3",
+      "value": "2"
+    },
+    {
+      "trait_type": "Masks58",
+      "value": "41"
+    },
+    {
+      "trait_type": "Accessories5",
+      "value": "79"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

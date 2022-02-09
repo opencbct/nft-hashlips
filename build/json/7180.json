@@ -1,0 +1,27 @@
+{
+  "name": "Your Collection #7180",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/7180.png",
+  "dna": "3263120bf98017e6f65d36700d7a351772eed1e4",
+  "edition": 7180,
+  "date": 1644432454371,
+  "attributes": [
+    {
+      "trait_type": "Backgrounds30",
+      "value": "86"
+    },
+    {
+      "trait_type": "Faces3",
+      "value": "2"
+    },
+    {
+      "trait_type": "Masks58",
+      "value": "39"
+    },
+    {
+      "trait_type": "Accessories5",
+      "value": "79"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

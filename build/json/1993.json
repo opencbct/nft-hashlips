@@ -1,0 +1,27 @@
+{
+  "name": "Your Collection #1993",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1993.png",
+  "dna": "de3a207ce0ab04dcce5757cda6a445bc1e1bd27f",
+  "edition": 1993,
+  "date": 1644431166440,
+  "attributes": [
+    {
+      "trait_type": "Backgrounds30",
+      "value": "87"
+    },
+    {
+      "trait_type": "Faces3",
+      "value": "2"
+    },
+    {
+      "trait_type": "Masks58",
+      "value": "66"
+    },
+    {
+      "trait_type": "Accessories5",
+      "value": "shine"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Your Collection #2007",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2007.png",
+  "dna": "6db7930671c290282abcbd5443bbe8f18847dbe1",
+  "edition": 2007,
+  "date": 1644431169641,
+  "attributes": [
+    {
+      "trait_type": "Backgrounds30",
+      "value": "30"
+    },
+    {
+      "trait_type": "Faces3",
+      "value": "2"
+    },
+    {
+      "trait_type": "Masks58",
+      "value": "39"
+    },
+    {
+      "trait_type": "Accessories5",
+      "value": "79"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

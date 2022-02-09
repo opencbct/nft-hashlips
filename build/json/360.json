@@ -1,0 +1,27 @@
+{
+  "name": "Your Collection #360",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/360.png",
+  "dna": "c8870ffc11cf37eada23d9d93d865b7e2c121d64",
+  "edition": 360,
+  "date": 1644430764650,
+  "attributes": [
+    {
+      "trait_type": "Backgrounds30",
+      "value": "87"
+    },
+    {
+      "trait_type": "Faces3",
+      "value": "3"
+    },
+    {
+      "trait_type": "Masks58",
+      "value": "66"
+    },
+    {
+      "trait_type": "Accessories5",
+      "value": "89"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
