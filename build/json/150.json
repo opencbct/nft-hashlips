@@ -1,26 +1,27 @@
 {
-  "name": "Your Collection #150",
-  "description": "Remember to replace this description",
+  "name": "coinVank Collection #150",
+  "description": "The theme of this work embodies the diversity within humans who contemplate order and corruption. It expresses human greed to destroy the environment and order.",
   "image": "ipfs://NewUriToReplace/150.png",
-  "dna": "1d3efc2bcbac102f30241d48a072123c37cbadda",
+  "dna": "2902de8bbb54c147f359512c07ad5c1de4b2751d",
   "edition": 150,
-  "date": 1644430711438,
+  "date": 1644461627401,
+  "creator": "Benjamin Kim",
   "attributes": [
     {
       "trait_type": "Backgrounds30",
-      "value": "13"
+      "value": "87"
     },
     {
       "trait_type": "Faces3",
-      "value": "2"
+      "value": "3"
     },
     {
       "trait_type": "Masks58",
-      "value": "39"
+      "value": "43"
     },
     {
-      "trait_type": "Accessories5",
-      "value": "79"
+      "trait_type": "Accessories4",
+      "value": "75"
     }
   ],
   "compiler": "HashLips Art Engine"

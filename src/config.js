@@ -12,7 +12,7 @@ const baseUri = "ipfs://NewUriToReplace";
 const solanaMetadata = {
   symbol: "YC",
   seller_fee_basis_points: 10, // Define how much % you want from secondary market sales 1000 = 10%
-  external_url: "https://www.coinvank.com",
+  external_url: "https://www.youtube.com/c/hashlipsnft",
   creators: [
     {
       address: "7fXNuer5sbZtaTEPhtJ5g5gNtuyRoKkvxdjEjEnPN4mC",
@@ -24,12 +24,12 @@ const solanaMetadata = {
 // If you have selected Solana then the collection starts from 0 automatically
 const layerConfigurations = [
   {
-    growEditionSizeTo: 8300,
+    growEditionSizeTo: 7770,
     layersOrder: [
       { name: "Backgrounds30" },
       { name: "Faces3" },
       { name: "Masks58" },
-      { name: "Accessories5" },
+      { name: "Accessories4" },
     ],
   },
 ];
@@ -75,7 +75,9 @@ const background = {
   default: "#000000",
 };
 
-const extraMetadata = {};
+const extraMetadata = {
+  creator: "Benjamin Kim",
+};
 
 const rarityDelimiter = "#";
 

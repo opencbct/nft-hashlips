@@ -1,14 +1,15 @@
 {
-  "name": "Your Collection #3559",
-  "description": "Remember to replace this description",
+  "name": "coinVank Collection #3559",
+  "description": "The theme of this work embodies the diversity within humans who contemplate order and corruption. It expresses human greed to destroy the environment and order.",
   "image": "ipfs://NewUriToReplace/3559.png",
-  "dna": "6441542c06c335c523bcc93a266e836a7670f34b",
+  "dna": "cf180a1e36a6ba06d0fa7904f05cab12286d1d92",
   "edition": 3559,
-  "date": 1644431543540,
+  "date": 1644462488544,
+  "creator": "Benjamin Kim",
   "attributes": [
     {
       "trait_type": "Backgrounds30",
-      "value": "86"
+      "value": "30"
     },
     {
       "trait_type": "Faces3",
@@ -16,11 +17,11 @@
     },
     {
       "trait_type": "Masks58",
-      "value": "39"
+      "value": "56"
     },
     {
-      "trait_type": "Accessories5",
-      "value": "75"
+      "trait_type": "Accessories4",
+      "value": "92"
     }
   ],
   "compiler": "HashLips Art Engine"
